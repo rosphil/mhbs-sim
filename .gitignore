@@ -1,0 +1,13 @@
+/.idea/
+/.venv/
+/__pycache__/
+
+.DS_Store
+**/.DS_Store
+
+/data/
+/dbc/
+
+# credentials
+**/credentials*.yaml
+**/credentials*.yml

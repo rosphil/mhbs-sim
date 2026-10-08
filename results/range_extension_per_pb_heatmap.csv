@@ -1,0 +1,17 @@
+n_pb,strategy,range_extension_per_pb_km,col_index,row_index,is_max,loss_pct
+1,full_power,7.269,0,0,0,19.4
+1,monotonous,8.232,1,0,0,8.7
+1,mixed,8.76,2,0,0,2.9
+1,proportional,9.019,3,0,1,0.0
+2,full_power,7.659,0,1,0,4.8
+2,monotonous,7.758,1,1,0,3.6
+2,mixed,8.046,2,1,1,0.0
+2,proportional,7.518,3,1,0,6.6
+3,full_power,7.674,0,2,1,0.0
+3,monotonous,7.408,1,2,0,3.5
+3,mixed,7.198,2,2,0,6.2
+3,proportional,6.101,3,2,0,20.5
+4,full_power,7.233,0,3,1,0.0
+4,monotonous,7.029,1,3,0,2.8
+4,mixed,6.482,2,3,0,10.4
+4,proportional,5.088,3,3,0,29.7

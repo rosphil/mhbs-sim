@@ -1,10 +1,10 @@
 [project]
-name = "shbss-sim"
+name = "mhbs-sim"
 version = "0.1.0"
-description = "SHBSS simulation and track processing"
+description = "MHBS simulation and track processing"
 requires-python = ">=3.12"
 license = "Apache-2.0"
-license-files = ["LICENSE"]
+license-files = ["LICENSE", "NOTICE"]
 dependencies = [
   "cantools",
   "python-can",

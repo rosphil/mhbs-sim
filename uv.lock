@@ -629,7 +629,7 @@ wheels = [
 ]
 
 [[package]]
-name = "shbss-sim"
+name = "mhbs-sim"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

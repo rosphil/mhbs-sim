@@ -3,6 +3,8 @@ name = "shbss-sim"
 version = "0.1.0"
 description = "SHBSS simulation and track processing"
 requires-python = ">=3.12"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 dependencies = [
   "cantools",
   "python-can",
